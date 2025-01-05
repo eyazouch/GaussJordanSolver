@@ -15,7 +15,6 @@ Il a été réalisé dans le cadre de la matière "Algorithmes Numériques", sou
 
 1. **Prérequis** :  
    - Python
-   - 
 2. **Installation** :  
    Clonez le dépôt et installez les dépendances avec les commandes suivantes :
    ```bash
